@@ -1,9 +1,8 @@
 <?php 
 
-$auth_token = "AUTH_TOKEN";
-$send_name = "HelloBot";
+$auth_token = "4d3d81868167d202-641cf1a62feea91f-c4d9b994d0ea696a";
+$send_name ="ek_dnu";
 $is_log = true;
-
 function put_log_in($data)
 {
 	global $is_log;
